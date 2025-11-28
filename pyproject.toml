@@ -13,4 +13,5 @@ dependencies = [
     "arize-phoenix>=12.16.0",
     "arize-phoenix-otel>=0.14.0",
     "openinference-instrumentation-openai>=0.1.40",
+    "llama-index"
 ]
